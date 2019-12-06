@@ -1,1 +1,1 @@
-# The Git
+# Kafka Go Sample 
